@@ -1,0 +1,6 @@
+{
+  "name": "romanize-korean",
+  "version": "0.0.9",
+  "main": "romanize-korean",
+  "bin": "./bin/romanize-korean"
+}
